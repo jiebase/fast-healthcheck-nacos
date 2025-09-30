@@ -41,8 +41,7 @@ Author
 Created by Yuer, cognitive architecture engineer.
 This plugin is part of a long-term initiative to demonstrate how foundational flaws in open-source infra can be solved structurally — with minimal code but maximum clarity.
 
-License
-MIT
 
+ I don't expect praise — but if you must, send it here: jiabase@gmail.com
 
 
